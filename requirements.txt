@@ -1,7 +1,8 @@
-ta
-requests
+streamlit
 pandas
 numpy
-scikit-learn
 matplotlib
+requests
+ta
+scikit-learn
 pytz
